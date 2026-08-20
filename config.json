@@ -1,0 +1,37 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": true,
+        "autoReconnect": true
+    },
+    "language": "en",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "61589411307081",
+    "BOTNAME": "ARIF BOT",
+    "PREFIX": "!",
+    "BOXADMIN": "1796609494868303",
+    "ADMINBOT": "61592729698094",
+    "NDH": [
+        "61589411307081"
+    ],
+    "version": "1.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": false,
+            "timeOut": 60
+        }
+    }
+}
